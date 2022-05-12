@@ -1,0 +1,28 @@
+body {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    margin: 0;
+    font-family: arial;
+
+}
+
+header {
+    display: flex;
+    margin: 0px 50px;
+    padding: 8px;
+    justify-content: end;
+    background-color: #1F2937;
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+.logo {
+    margin-right: auto;
+    padding: 8px;
+}
+
+a {
+    padding: 8px;
+
+}
